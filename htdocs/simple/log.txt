@@ -1,0 +1,1470 @@
+
+
+02-10-2023 16:37:01 | The IP: NULL has unsuccessfully logged in as  | Screen Res: NULL | Time Spent: Days: NULL | Hours:  | Minutes:  | Seconds: 
+-------------------------------------------------
+SERVER NAME     : localhost
+SERVER ADDRESS  : ::1
+SERVER PORT     : 80
+SERVER SOFTWARE : Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.2.4
+SERVER PAGE_URI : C:/xampp/htdocs/simple/auth.php
+-------------------------------------------------
+REMOTE NAME     : localhost
+REMOTE ADDRESS  : ::1
+REMOTE PORT     : 54151
+REMOTE REFERER  : http://localhost/simple/
+REMOTE PLATFORM : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+REMOTE LOCATION :  
+-------------------------------------------------
+REQUEST SCHEME  : http
+REQUEST METHOD  : POST
+REQUEST URI     : /simple/auth.php
+-------------------------------------------------
+
+
+02-10-2023 16:38:22 | The IP: NULL has unsuccessfully logged in as  | Screen Res: NULL | Time Spent: Days: NULL | Hours:  | Minutes:  | Seconds: 
+-------------------------------------------------
+SERVER NAME     : localhost
+SERVER ADDRESS  : ::1
+SERVER PORT     : 80
+SERVER SOFTWARE : Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.2.4
+SERVER PAGE_URI : C:/xampp/htdocs/simple/auth.php
+-------------------------------------------------
+REMOTE NAME     : localhost
+REMOTE ADDRESS  : ::1
+REMOTE PORT     : 54181
+REMOTE REFERER  : http://localhost/simple/
+REMOTE PLATFORM : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+REMOTE LOCATION :  
+-------------------------------------------------
+REQUEST SCHEME  : http
+REQUEST METHOD  : POST
+REQUEST URI     : /simple/auth.php
+-------------------------------------------------
+
+
+02-10-2023 16:43:05 | The IP: NULL has unsuccessfully logged in as 21321 | Screen Res: NULL | Time Spent: Days: NULL | Hours:  | Minutes:  | Seconds: 
+-------------------------------------------------
+SERVER NAME     : localhost
+SERVER ADDRESS  : ::1
+SERVER PORT     : 80
+SERVER SOFTWARE : Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.2.4
+SERVER PAGE_URI : C:/xampp/htdocs/simple/auth.php
+-------------------------------------------------
+REMOTE NAME     : localhost
+REMOTE ADDRESS  : ::1
+REMOTE PORT     : 54429
+REMOTE REFERER  : http://localhost/simple/
+REMOTE PLATFORM : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+REMOTE LOCATION :  
+-------------------------------------------------
+REQUEST SCHEME  : http
+REQUEST METHOD  : POST
+REQUEST URI     : /simple/auth.php
+-------------------------------------------------
+
+
+02-10-2023 16:50:37 | The IP: NULL has unsuccessfully logged in as 21321 | Screen Res: NULL | Time Spent: Days: NULL | Hours:  | Minutes:  | Seconds: 
+-------------------------------------------------
+SERVER NAME     : localhost
+SERVER ADDRESS  : ::1
+SERVER PORT     : 80
+SERVER SOFTWARE : Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.2.4
+SERVER PAGE_URI : C:/xampp/htdocs/simple/auth.php
+-------------------------------------------------
+REMOTE NAME     : localhost
+REMOTE ADDRESS  : ::1
+REMOTE PORT     : 54657
+REMOTE REFERER  : http://localhost/simple/
+REMOTE PLATFORM : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+REMOTE LOCATION :  
+-------------------------------------------------
+REQUEST SCHEME  : http
+REQUEST METHOD  : POST
+REQUEST URI     : /simple/auth.php
+-------------------------------------------------
+
+
+02-10-2023 16:51:28 | The IP: NULL has unsuccessfully logged in as 21321 | Screen Res: NULL | Time Spent: Days: NULL | Hours:  | Minutes:  | Seconds: 
+-------------------------------------------------
+SERVER NAME     : localhost
+SERVER ADDRESS  : ::1
+SERVER PORT     : 80
+SERVER SOFTWARE : Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.2.4
+SERVER PAGE_URI : C:/xampp/htdocs/simple/auth.php
+-------------------------------------------------
+REMOTE NAME     : localhost
+REMOTE ADDRESS  : ::1
+REMOTE PORT     : 54658
+REMOTE REFERER  : http://localhost/simple/
+REMOTE PLATFORM : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+REMOTE LOCATION :  
+-------------------------------------------------
+REQUEST SCHEME  : http
+REQUEST METHOD  : POST
+REQUEST URI     : /simple/auth.php
+-------------------------------------------------
+
+
+02-10-2023 16:51:34 | The IP: NULL has unsuccessfully logged in as 21321 | Screen Res: NULL | Time Spent: Days: NULL | Hours:  | Minutes:  | Seconds: 
+-------------------------------------------------
+SERVER NAME     : localhost
+SERVER ADDRESS  : ::1
+SERVER PORT     : 80
+SERVER SOFTWARE : Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.2.4
+SERVER PAGE_URI : C:/xampp/htdocs/simple/auth.php
+-------------------------------------------------
+REMOTE NAME     : localhost
+REMOTE ADDRESS  : ::1
+REMOTE PORT     : 54658
+REMOTE REFERER  : http://localhost/simple/
+REMOTE PLATFORM : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+REMOTE LOCATION :  
+-------------------------------------------------
+REQUEST SCHEME  : http
+REQUEST METHOD  : POST
+REQUEST URI     : /simple/auth.php
+-------------------------------------------------
+
+
+02-10-2023 16:53:15 | The IP: NULL has unsuccessfully logged in as 21321 | Screen Res: NULL | Time Spent: Days: NULL | Hours:  | Minutes:  | Seconds: 
+-------------------------------------------------
+SERVER NAME     : localhost
+SERVER ADDRESS  : ::1
+SERVER PORT     : 80
+SERVER SOFTWARE : Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.2.4
+SERVER PAGE_URI : C:/xampp/htdocs/simple/auth.php
+-------------------------------------------------
+REMOTE NAME     : localhost
+REMOTE ADDRESS  : ::1
+REMOTE PORT     : 54743
+REMOTE REFERER  : http://localhost/simple/
+REMOTE PLATFORM : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+REMOTE LOCATION :  
+-------------------------------------------------
+REQUEST SCHEME  : http
+REQUEST METHOD  : POST
+REQUEST URI     : /simple/auth.php
+-------------------------------------------------
+
+
+02-10-2023 17:15:52 | The IP: NULL has unsuccessfully logged in as  | Screen Res: NULL | Time Spent: Days: NULL | Hours:  | Minutes:  | Seconds: 
+-------------------------------------------------
+SERVER NAME     : localhost
+SERVER ADDRESS  : ::1
+SERVER PORT     : 80
+SERVER SOFTWARE : Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.2.4
+SERVER PAGE_URI : C:/xampp/htdocs/simple/auth.php
+-------------------------------------------------
+REMOTE NAME     : localhost
+REMOTE ADDRESS  : ::1
+REMOTE PORT     : 55492
+REMOTE REFERER  : http://localhost/simple/?p=login
+REMOTE PLATFORM : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+REMOTE LOCATION :  
+-------------------------------------------------
+REQUEST SCHEME  : http
+REQUEST METHOD  : POST
+REQUEST URI     : /simple/auth.php
+-------------------------------------------------
+
+
+02-10-2023 17:18:04 | The IP: NULL has unsuccessfully logged in as  | Screen Res: NULL | Time Spent: Days: NULL | Hours:  | Minutes:  | Seconds: 
+-------------------------------------------------
+SERVER NAME     : localhost
+SERVER ADDRESS  : ::1
+SERVER PORT     : 80
+SERVER SOFTWARE : Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.2.4
+SERVER PAGE_URI : C:/xampp/htdocs/simple/auth.php
+-------------------------------------------------
+REMOTE NAME     : localhost
+REMOTE ADDRESS  : ::1
+REMOTE PORT     : 55568
+REMOTE REFERER  : http://localhost/simple/?p=login
+REMOTE PLATFORM : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+REMOTE LOCATION :  
+-------------------------------------------------
+REQUEST SCHEME  : http
+REQUEST METHOD  : POST
+REQUEST URI     : /simple/auth.php
+-------------------------------------------------
+
+
+02-10-2023 17:19:06 | The IP: NULL has unsuccessfully logged in as  | Screen Res: NULL | Time Spent: Days: NULL | Hours:  | Minutes:  | Seconds: 
+-------------------------------------------------
+SERVER NAME     : localhost
+SERVER ADDRESS  : ::1
+SERVER PORT     : 80
+SERVER SOFTWARE : Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.2.4
+SERVER PAGE_URI : C:/xampp/htdocs/simple/auth.php
+-------------------------------------------------
+REMOTE NAME     : localhost
+REMOTE ADDRESS  : ::1
+REMOTE PORT     : 55569
+REMOTE REFERER  : http://localhost/simple/?p=login
+REMOTE PLATFORM : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+REMOTE LOCATION :  
+-------------------------------------------------
+REQUEST SCHEME  : http
+REQUEST METHOD  : POST
+REQUEST URI     : /simple/auth.php
+-------------------------------------------------
+
+
+02-10-2023 17:21:58 | The IP: NULL has unsuccessfully logged in as  | Screen Res: NULL | Time Spent: Days: NULL | Hours:  | Minutes:  | Seconds: 
+-------------------------------------------------
+SERVER NAME     : localhost
+SERVER ADDRESS  : ::1
+SERVER PORT     : 80
+SERVER SOFTWARE : Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.2.4
+SERVER PAGE_URI : C:/xampp/htdocs/simple/auth.php
+-------------------------------------------------
+REMOTE NAME     : localhost
+REMOTE ADDRESS  : ::1
+REMOTE PORT     : 55685
+REMOTE REFERER  : http://localhost/simple/?p=login
+REMOTE PLATFORM : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+REMOTE LOCATION :  
+-------------------------------------------------
+REQUEST SCHEME  : http
+REQUEST METHOD  : POST
+REQUEST URI     : /simple/auth.php
+-------------------------------------------------
+
+
+02-10-2023 17:26:50 | The IP: NULL has unsuccessfully logged in as  | Screen Res: NULL | Time Spent: Days: NULL | Hours:  | Minutes:  | Seconds: 
+-------------------------------------------------
+SERVER NAME     : localhost
+SERVER ADDRESS  : ::1
+SERVER PORT     : 80
+SERVER SOFTWARE : Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.2.4
+SERVER PAGE_URI : C:/xampp/htdocs/simple/auth.php
+-------------------------------------------------
+REMOTE NAME     : localhost
+REMOTE ADDRESS  : ::1
+REMOTE PORT     : 55917
+REMOTE REFERER  : http://localhost/simple/?p=login
+REMOTE PLATFORM : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+REMOTE LOCATION :  
+-------------------------------------------------
+REQUEST SCHEME  : http
+REQUEST METHOD  : POST
+REQUEST URI     : /simple/auth.php
+-------------------------------------------------
+
+
+02-10-2023 17:28:00 | The IP: NULL has unsuccessfully logged in as  | Screen Res: NULL | Time Spent: Days: NULL | Hours:  | Minutes:  | Seconds: 
+-------------------------------------------------
+SERVER NAME     : localhost
+SERVER ADDRESS  : ::1
+SERVER PORT     : 80
+SERVER SOFTWARE : Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.2.4
+SERVER PAGE_URI : C:/xampp/htdocs/simple/auth.php
+-------------------------------------------------
+REMOTE NAME     : localhost
+REMOTE ADDRESS  : ::1
+REMOTE PORT     : 56011
+REMOTE REFERER  : http://localhost/simple/
+REMOTE PLATFORM : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+REMOTE LOCATION :  
+-------------------------------------------------
+REQUEST SCHEME  : http
+REQUEST METHOD  : POST
+REQUEST URI     : /simple/auth.php
+-------------------------------------------------
+
+
+02-10-2023 17:36:14 | The IP: 63.135.73.251 has unsuccessfully logged in as  | Screen Res: 1536x864 | Time Spent: Days: 0 | Hours: 0 | Minutes: 0 | Seconds: 3
+-------------------------------------------------
+SERVER NAME     : localhost
+SERVER ADDRESS  : ::1
+SERVER PORT     : 80
+SERVER SOFTWARE : Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.2.4
+SERVER PAGE_URI : C:/xampp/htdocs/simple/auth.php
+-------------------------------------------------
+REMOTE NAME     : localhost
+REMOTE ADDRESS  : ::1
+REMOTE PORT     : 56327
+REMOTE REFERER  : http://localhost/simple/
+REMOTE PLATFORM : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+REMOTE LOCATION : United Kingdom Bingley
+-------------------------------------------------
+REQUEST SCHEME  : http
+REQUEST METHOD  : POST
+REQUEST URI     : /simple/auth.php
+-------------------------------------------------
+
+
+02-10-2023 17:41:39 | The IP: 63.135.73.251 has unsuccessfully logged in as  | Screen Res: 1536x864 | Time Spent: Days: 0 | Hours: 0 | Minutes: 5 | Seconds: 28
+-------------------------------------------------
+SERVER NAME     : localhost
+SERVER ADDRESS  : ::1
+SERVER PORT     : 80
+SERVER SOFTWARE : Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.2.4
+SERVER PAGE_URI : C:/xampp/htdocs/simple/auth.php
+-------------------------------------------------
+REMOTE NAME     : localhost
+REMOTE ADDRESS  : ::1
+REMOTE PORT     : 56498
+REMOTE REFERER  : http://localhost/simple/
+REMOTE PLATFORM : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+REMOTE LOCATION : United Kingdom Bingley
+-------------------------------------------------
+REQUEST SCHEME  : http
+REQUEST METHOD  : POST
+REQUEST URI     : /simple/auth.php
+-------------------------------------------------
+
+
+02-10-2023 17:45:47 | The IP: 63.135.73.251 has unsuccessfully logged in as  | Screen Res: 1536x864 | Time Spent: Days: 0 | Hours: 0 | Minutes: 9 | Seconds: 35
+-------------------------------------------------
+SERVER NAME     : localhost
+SERVER ADDRESS  : ::1
+SERVER PORT     : 80
+SERVER SOFTWARE : Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.2.4
+SERVER PAGE_URI : C:/xampp/htdocs/simple/auth.php
+-------------------------------------------------
+REMOTE NAME     : localhost
+REMOTE ADDRESS  : ::1
+REMOTE PORT     : 56638
+REMOTE REFERER  : http://localhost/simple/
+REMOTE PLATFORM : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+REMOTE LOCATION : United Kingdom Bingley
+-------------------------------------------------
+REQUEST SCHEME  : http
+REQUEST METHOD  : POST
+REQUEST URI     : /simple/auth.php
+-------------------------------------------------
+
+
+02-10-2023 17:46:06 | The IP: 63.135.73.251 has unsuccessfully logged in as  | Screen Res: 1536x864 | Time Spent: Days: 0 | Hours: 0 | Minutes: 9 | Seconds: 35
+-------------------------------------------------
+SERVER NAME     : localhost
+SERVER ADDRESS  : ::1
+SERVER PORT     : 80
+SERVER SOFTWARE : Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.2.4
+SERVER PAGE_URI : C:/xampp/htdocs/simple/auth.php
+-------------------------------------------------
+REMOTE NAME     : localhost
+REMOTE ADDRESS  : ::1
+REMOTE PORT     : 56639
+REMOTE REFERER  : http://localhost/simple/
+REMOTE PLATFORM : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+REMOTE LOCATION : United Kingdom Bingley
+-------------------------------------------------
+REQUEST SCHEME  : http
+REQUEST METHOD  : POST
+REQUEST URI     : /simple/auth.php
+-------------------------------------------------
+
+
+02-10-2023 17:48:46 | The IP: 63.135.73.251 has unsuccessfully logged in as  | Screen Res: 1536x864 | Time Spent: Days: 0 | Hours: 0 | Minutes: 12 | Seconds: 32
+-------------------------------------------------
+SERVER NAME     : localhost
+SERVER ADDRESS  : ::1
+SERVER PORT     : 80
+SERVER SOFTWARE : Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.2.4
+SERVER PAGE_URI : C:/xampp/htdocs/simple/auth.php
+-------------------------------------------------
+REMOTE NAME     : localhost
+REMOTE ADDRESS  : ::1
+REMOTE PORT     : 56721
+REMOTE REFERER  : http://localhost/simple/
+REMOTE PLATFORM : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+REMOTE LOCATION : United Kingdom Bingley
+-------------------------------------------------
+REQUEST SCHEME  : http
+REQUEST METHOD  : POST
+REQUEST URI     : /simple/auth.php
+-------------------------------------------------
+
+
+02-10-2023 17:48:50 | The IP: 63.135.73.251 has unsuccessfully logged in as  | Screen Res: 1536x864 | Time Spent: Days: 0 | Hours: 0 | Minutes: 0 | Seconds: 2
+-------------------------------------------------
+SERVER NAME     : localhost
+SERVER ADDRESS  : ::1
+SERVER PORT     : 80
+SERVER SOFTWARE : Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.2.4
+SERVER PAGE_URI : C:/xampp/htdocs/simple/auth.php
+-------------------------------------------------
+REMOTE NAME     : localhost
+REMOTE ADDRESS  : ::1
+REMOTE PORT     : 56721
+REMOTE REFERER  : http://localhost/simple/index.html
+REMOTE PLATFORM : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+REMOTE LOCATION : United Kingdom Bingley
+-------------------------------------------------
+REQUEST SCHEME  : http
+REQUEST METHOD  : POST
+REQUEST URI     : /simple/auth.php
+-------------------------------------------------
+
+
+02-10-2023 17:49:03 | The IP: 63.135.73.251 has unsuccessfully logged in as  | Screen Res: 1536x864 | Time Spent: Days: 0 | Hours: 0 | Minutes: 0 | Seconds: 1
+-------------------------------------------------
+SERVER NAME     : localhost
+SERVER ADDRESS  : ::1
+SERVER PORT     : 80
+SERVER SOFTWARE : Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.2.4
+SERVER PAGE_URI : C:/xampp/htdocs/simple/auth.php
+-------------------------------------------------
+REMOTE NAME     : localhost
+REMOTE ADDRESS  : ::1
+REMOTE PORT     : 56731
+REMOTE REFERER  : http://localhost/simple/index.html
+REMOTE PLATFORM : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+REMOTE LOCATION : United Kingdom Bingley
+-------------------------------------------------
+REQUEST SCHEME  : http
+REQUEST METHOD  : POST
+REQUEST URI     : /simple/auth.php
+-------------------------------------------------
+
+
+02-10-2023 17:49:14 | The IP: 63.135.73.251 has unsuccessfully logged in as  | Screen Res: 1536x864 | Time Spent: Days: 0 | Hours: 0 | Minutes: 0 | Seconds: 11
+-------------------------------------------------
+SERVER NAME     : localhost
+SERVER ADDRESS  : ::1
+SERVER PORT     : 80
+SERVER SOFTWARE : Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.2.4
+SERVER PAGE_URI : C:/xampp/htdocs/simple/auth.php
+-------------------------------------------------
+REMOTE NAME     : localhost
+REMOTE ADDRESS  : ::1
+REMOTE PORT     : 56743
+REMOTE REFERER  : http://localhost/simple/index.html
+REMOTE PLATFORM : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+REMOTE LOCATION : United Kingdom Bingley
+-------------------------------------------------
+REQUEST SCHEME  : http
+REQUEST METHOD  : POST
+REQUEST URI     : /simple/auth.php
+-------------------------------------------------
+
+
+02-10-2023 17:49:15 | The IP: 63.135.73.251 has unsuccessfully logged in as  | Screen Res: 1536x864 | Time Spent: Days: 0 | Hours: 0 | Minutes: 0 | Seconds: 0
+-------------------------------------------------
+SERVER NAME     : localhost
+SERVER ADDRESS  : ::1
+SERVER PORT     : 80
+SERVER SOFTWARE : Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.2.4
+SERVER PAGE_URI : C:/xampp/htdocs/simple/auth.php
+-------------------------------------------------
+REMOTE NAME     : localhost
+REMOTE ADDRESS  : ::1
+REMOTE PORT     : 56743
+REMOTE REFERER  : http://localhost/simple/index.html
+REMOTE PLATFORM : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+REMOTE LOCATION : United Kingdom Bingley
+-------------------------------------------------
+REQUEST SCHEME  : http
+REQUEST METHOD  : POST
+REQUEST URI     : /simple/auth.php
+-------------------------------------------------
+
+
+02-10-2023 17:49:15 | The IP: 63.135.73.251 has unsuccessfully logged in as  | Screen Res: 1536x864 | Time Spent: Days: 0 | Hours: 0 | Minutes: 0 | Seconds: 0
+-------------------------------------------------
+SERVER NAME     : localhost
+SERVER ADDRESS  : ::1
+SERVER PORT     : 80
+SERVER SOFTWARE : Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.2.4
+SERVER PAGE_URI : C:/xampp/htdocs/simple/auth.php
+-------------------------------------------------
+REMOTE NAME     : localhost
+REMOTE ADDRESS  : ::1
+REMOTE PORT     : 56743
+REMOTE REFERER  : http://localhost/simple/index.html
+REMOTE PLATFORM : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+REMOTE LOCATION : United Kingdom Bingley
+-------------------------------------------------
+REQUEST SCHEME  : http
+REQUEST METHOD  : POST
+REQUEST URI     : /simple/auth.php
+-------------------------------------------------
+
+
+02-10-2023 17:49:32 | The IP: 63.135.73.251 has unsuccessfully logged in as  | Screen Res: 1536x864 | Time Spent: Days: 0 | Hours: 0 | Minutes: 0 | Seconds: 2
+-------------------------------------------------
+SERVER NAME     : localhost
+SERVER ADDRESS  : ::1
+SERVER PORT     : 80
+SERVER SOFTWARE : Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.2.4
+SERVER PAGE_URI : C:/xampp/htdocs/simple/auth.php
+-------------------------------------------------
+REMOTE NAME     : localhost
+REMOTE ADDRESS  : ::1
+REMOTE PORT     : 56750
+REMOTE REFERER  : http://localhost/simple/
+REMOTE PLATFORM : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+REMOTE LOCATION : United Kingdom Bingley
+-------------------------------------------------
+REQUEST SCHEME  : http
+REQUEST METHOD  : POST
+REQUEST URI     : /simple/auth.php
+-------------------------------------------------
+
+
+02-10-2023 17:50:47 | The IP: 63.135.73.251 has unsuccessfully logged in as  | Screen Res: 1536x864 | Time Spent: Days: 0 | Hours: 0 | Minutes: 1 | Seconds: 14
+-------------------------------------------------
+SERVER NAME     : localhost
+SERVER ADDRESS  : ::1
+SERVER PORT     : 80
+SERVER SOFTWARE : Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.2.4
+SERVER PAGE_URI : C:/xampp/htdocs/simple/auth.php
+-------------------------------------------------
+REMOTE NAME     : localhost
+REMOTE ADDRESS  : ::1
+REMOTE PORT     : 56842
+REMOTE REFERER  : http://localhost/simple/index.html
+REMOTE PLATFORM : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+REMOTE LOCATION : United Kingdom Bingley
+-------------------------------------------------
+REQUEST SCHEME  : http
+REQUEST METHOD  : POST
+REQUEST URI     : /simple/auth.php
+-------------------------------------------------
+
+
+02-10-2023 17:51:19 | The IP: 63.135.73.251 has unsuccessfully logged in as  | Screen Res: 1536x864 | Time Spent: Days: 0 | Hours: 0 | Minutes: 0 | Seconds: 27
+-------------------------------------------------
+SERVER NAME     : localhost
+SERVER ADDRESS  : ::1
+SERVER PORT     : 80
+SERVER SOFTWARE : Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.2.4
+SERVER PAGE_URI : C:/xampp/htdocs/simple/auth.php
+-------------------------------------------------
+REMOTE NAME     : localhost
+REMOTE ADDRESS  : ::1
+REMOTE PORT     : 56843
+REMOTE REFERER  : http://localhost/simple/index.html
+REMOTE PLATFORM : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+REMOTE LOCATION : United Kingdom Bingley
+-------------------------------------------------
+REQUEST SCHEME  : http
+REQUEST METHOD  : POST
+REQUEST URI     : /simple/auth.php
+-------------------------------------------------
+
+
+02-10-2023 17:51:20 | The IP: 63.135.73.251 has unsuccessfully logged in as  | Screen Res: 1536x864 | Time Spent: Days: 0 | Hours: 0 | Minutes: 0 | Seconds: 0
+-------------------------------------------------
+SERVER NAME     : localhost
+SERVER ADDRESS  : ::1
+SERVER PORT     : 80
+SERVER SOFTWARE : Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.2.4
+SERVER PAGE_URI : C:/xampp/htdocs/simple/auth.php
+-------------------------------------------------
+REMOTE NAME     : localhost
+REMOTE ADDRESS  : ::1
+REMOTE PORT     : 56843
+REMOTE REFERER  : http://localhost/simple/index.html
+REMOTE PLATFORM : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+REMOTE LOCATION : United Kingdom Bingley
+-------------------------------------------------
+REQUEST SCHEME  : http
+REQUEST METHOD  : POST
+REQUEST URI     : /simple/auth.php
+-------------------------------------------------
+
+
+02-10-2023 17:51:20 | The IP: 63.135.73.251 has unsuccessfully logged in as  | Screen Res: 1536x864 | Time Spent: Days: 0 | Hours: 0 | Minutes: 0 | Seconds: 0
+-------------------------------------------------
+SERVER NAME     : localhost
+SERVER ADDRESS  : ::1
+SERVER PORT     : 80
+SERVER SOFTWARE : Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.2.4
+SERVER PAGE_URI : C:/xampp/htdocs/simple/auth.php
+-------------------------------------------------
+REMOTE NAME     : localhost
+REMOTE ADDRESS  : ::1
+REMOTE PORT     : 56843
+REMOTE REFERER  : http://localhost/simple/index.html
+REMOTE PLATFORM : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+REMOTE LOCATION : United Kingdom Bingley
+-------------------------------------------------
+REQUEST SCHEME  : http
+REQUEST METHOD  : POST
+REQUEST URI     : /simple/auth.php
+-------------------------------------------------
+
+
+02-10-2023 17:51:21 | The IP: 63.135.73.251 has unsuccessfully logged in as  | Screen Res: 1536x864 | Time Spent: Days: 0 | Hours: 0 | Minutes: 0 | Seconds: 0
+-------------------------------------------------
+SERVER NAME     : localhost
+SERVER ADDRESS  : ::1
+SERVER PORT     : 80
+SERVER SOFTWARE : Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.2.4
+SERVER PAGE_URI : C:/xampp/htdocs/simple/auth.php
+-------------------------------------------------
+REMOTE NAME     : localhost
+REMOTE ADDRESS  : ::1
+REMOTE PORT     : 56843
+REMOTE REFERER  : http://localhost/simple/index.html
+REMOTE PLATFORM : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+REMOTE LOCATION : United Kingdom Bingley
+-------------------------------------------------
+REQUEST SCHEME  : http
+REQUEST METHOD  : POST
+REQUEST URI     : /simple/auth.php
+-------------------------------------------------
+
+
+02-10-2023 17:51:21 | The IP: NULL has unsuccessfully logged in as  | Screen Res: 1536x864 | Time Spent: Days: 0 | Hours: 0 | Minutes: 0 | Seconds: 0
+-------------------------------------------------
+SERVER NAME     : localhost
+SERVER ADDRESS  : ::1
+SERVER PORT     : 80
+SERVER SOFTWARE : Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.2.4
+SERVER PAGE_URI : C:/xampp/htdocs/simple/auth.php
+-------------------------------------------------
+REMOTE NAME     : localhost
+REMOTE ADDRESS  : ::1
+REMOTE PORT     : 56843
+REMOTE REFERER  : http://localhost/simple/index.html
+REMOTE PLATFORM : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+REMOTE LOCATION :  
+-------------------------------------------------
+REQUEST SCHEME  : http
+REQUEST METHOD  : POST
+REQUEST URI     : /simple/auth.php
+-------------------------------------------------
+
+
+02-10-2023 17:51:21 | The IP: NULL has unsuccessfully logged in as  | Screen Res: 1536x864 | Time Spent: Days: 0 | Hours: 0 | Minutes: 0 | Seconds: 0
+-------------------------------------------------
+SERVER NAME     : localhost
+SERVER ADDRESS  : ::1
+SERVER PORT     : 80
+SERVER SOFTWARE : Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.2.4
+SERVER PAGE_URI : C:/xampp/htdocs/simple/auth.php
+-------------------------------------------------
+REMOTE NAME     : localhost
+REMOTE ADDRESS  : ::1
+REMOTE PORT     : 56843
+REMOTE REFERER  : http://localhost/simple/index.html
+REMOTE PLATFORM : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+REMOTE LOCATION :  
+-------------------------------------------------
+REQUEST SCHEME  : http
+REQUEST METHOD  : POST
+REQUEST URI     : /simple/auth.php
+-------------------------------------------------
+
+
+02-10-2023 17:51:22 | The IP: NULL has unsuccessfully logged in as  | Screen Res: 1536x864 | Time Spent: Days: 0 | Hours: 0 | Minutes: 0 | Seconds: 0
+-------------------------------------------------
+SERVER NAME     : localhost
+SERVER ADDRESS  : ::1
+SERVER PORT     : 80
+SERVER SOFTWARE : Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.2.4
+SERVER PAGE_URI : C:/xampp/htdocs/simple/auth.php
+-------------------------------------------------
+REMOTE NAME     : localhost
+REMOTE ADDRESS  : ::1
+REMOTE PORT     : 56843
+REMOTE REFERER  : http://localhost/simple/index.html
+REMOTE PLATFORM : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+REMOTE LOCATION :  
+-------------------------------------------------
+REQUEST SCHEME  : http
+REQUEST METHOD  : POST
+REQUEST URI     : /simple/auth.php
+-------------------------------------------------
+
+
+02-10-2023 17:52:02 | The IP: 63.135.73.251 has unsuccessfully logged in as  | Screen Res: 1536x864 | Time Spent: Days: 0 | Hours: 0 | Minutes: 0 | Seconds: 1
+-------------------------------------------------
+SERVER NAME     : localhost
+SERVER ADDRESS  : ::1
+SERVER PORT     : 80
+SERVER SOFTWARE : Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.2.4
+SERVER PAGE_URI : C:/xampp/htdocs/simple/auth.php
+-------------------------------------------------
+REMOTE NAME     : localhost
+REMOTE ADDRESS  : ::1
+REMOTE PORT     : 56864
+REMOTE REFERER  : http://localhost/simple/index.html
+REMOTE PLATFORM : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+REMOTE LOCATION : United Kingdom Bingley
+-------------------------------------------------
+REQUEST SCHEME  : http
+REQUEST METHOD  : POST
+REQUEST URI     : /simple/auth.php
+-------------------------------------------------
+
+
+02-10-2023 17:52:03 | The IP: 63.135.73.251 has unsuccessfully logged in as  | Screen Res: 1536x864 | Time Spent: Days: 0 | Hours: 0 | Minutes: 0 | Seconds: 0
+-------------------------------------------------
+SERVER NAME     : localhost
+SERVER ADDRESS  : ::1
+SERVER PORT     : 80
+SERVER SOFTWARE : Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.2.4
+SERVER PAGE_URI : C:/xampp/htdocs/simple/auth.php
+-------------------------------------------------
+REMOTE NAME     : localhost
+REMOTE ADDRESS  : ::1
+REMOTE PORT     : 56864
+REMOTE REFERER  : http://localhost/simple/index.html
+REMOTE PLATFORM : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+REMOTE LOCATION : United Kingdom Bingley
+-------------------------------------------------
+REQUEST SCHEME  : http
+REQUEST METHOD  : POST
+REQUEST URI     : /simple/auth.php
+-------------------------------------------------
+
+
+02-10-2023 17:55:26 | The IP: 63.135.73.251 has unsuccessfully logged in as  | Screen Res: 1536x864 | Time Spent: Days: 0 | Hours: 0 | Minutes: 3 | Seconds: 19
+-------------------------------------------------
+SERVER NAME     : localhost
+SERVER ADDRESS  : ::1
+SERVER PORT     : 80
+SERVER SOFTWARE : Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.2.4
+SERVER PAGE_URI : C:/xampp/htdocs/simple/auth.php
+-------------------------------------------------
+REMOTE NAME     : localhost
+REMOTE ADDRESS  : ::1
+REMOTE PORT     : 56994
+REMOTE REFERER  : http://localhost/simple/index.html
+REMOTE PLATFORM : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+REMOTE LOCATION : United Kingdom Bingley
+-------------------------------------------------
+REQUEST SCHEME  : http
+REQUEST METHOD  : POST
+REQUEST URI     : /simple/auth.php
+-------------------------------------------------
+
+
+02-10-2023 17:55:29 | The IP: 63.135.73.251 has unsuccessfully logged in as  | Screen Res: 1536x864 | Time Spent: Days: 0 | Hours: 0 | Minutes: 0 | Seconds: 1
+-------------------------------------------------
+SERVER NAME     : localhost
+SERVER ADDRESS  : ::1
+SERVER PORT     : 80
+SERVER SOFTWARE : Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.2.4
+SERVER PAGE_URI : C:/xampp/htdocs/simple/auth.php
+-------------------------------------------------
+REMOTE NAME     : localhost
+REMOTE ADDRESS  : ::1
+REMOTE PORT     : 56994
+REMOTE REFERER  : http://localhost/simple/index.html
+REMOTE PLATFORM : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+REMOTE LOCATION : United Kingdom Bingley
+-------------------------------------------------
+REQUEST SCHEME  : http
+REQUEST METHOD  : POST
+REQUEST URI     : /simple/auth.php
+-------------------------------------------------
+
+
+02-10-2023 17:55:54 | The IP: 63.135.73.251 has unsuccessfully logged in as  | Screen Res: 1536x864 | Time Spent: Days: 0 | Hours: 0 | Minutes: 0 | Seconds: 24
+-------------------------------------------------
+SERVER NAME     : localhost
+SERVER ADDRESS  : ::1
+SERVER PORT     : 80
+SERVER SOFTWARE : Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.2.4
+SERVER PAGE_URI : C:/xampp/htdocs/simple/auth.php
+-------------------------------------------------
+REMOTE NAME     : localhost
+REMOTE ADDRESS  : ::1
+REMOTE PORT     : 56995
+REMOTE REFERER  : http://localhost/simple/index.html
+REMOTE PLATFORM : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+REMOTE LOCATION : United Kingdom Bingley
+-------------------------------------------------
+REQUEST SCHEME  : http
+REQUEST METHOD  : POST
+REQUEST URI     : /simple/auth.php
+-------------------------------------------------
+
+
+02-10-2023 17:55:59 | The IP: 63.135.73.251 has unsuccessfully logged in as  | Screen Res: 1536x864 | Time Spent: Days: 0 | Hours: 0 | Minutes: 0 | Seconds: 5
+-------------------------------------------------
+SERVER NAME     : localhost
+SERVER ADDRESS  : ::1
+SERVER PORT     : 80
+SERVER SOFTWARE : Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.2.4
+SERVER PAGE_URI : C:/xampp/htdocs/simple/auth.php
+-------------------------------------------------
+REMOTE NAME     : localhost
+REMOTE ADDRESS  : ::1
+REMOTE PORT     : 57013
+REMOTE REFERER  : http://localhost/simple/index.html?p=failed
+REMOTE PLATFORM : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+REMOTE LOCATION : United Kingdom Bingley
+-------------------------------------------------
+REQUEST SCHEME  : http
+REQUEST METHOD  : POST
+REQUEST URI     : /simple/auth.php
+-------------------------------------------------
+
+
+02-10-2023 17:57:04 | The IP: 63.135.73.251 has unsuccessfully logged in as  | Screen Res: 1536x864 | Time Spent: Days: 0 | Hours: 0 | Minutes: 0 | Seconds: 1
+-------------------------------------------------
+SERVER NAME     : localhost
+SERVER ADDRESS  : ::1
+SERVER PORT     : 80
+SERVER SOFTWARE : Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.2.4
+SERVER PAGE_URI : C:/xampp/htdocs/simple/auth.php
+-------------------------------------------------
+REMOTE NAME     : localhost
+REMOTE ADDRESS  : ::1
+REMOTE PORT     : 57050
+REMOTE REFERER  : http://localhost/simple/index.html?p=failed
+REMOTE PLATFORM : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+REMOTE LOCATION : United Kingdom Bingley
+-------------------------------------------------
+REQUEST SCHEME  : http
+REQUEST METHOD  : POST
+REQUEST URI     : /simple/auth.php
+-------------------------------------------------
+
+
+02-10-2023 18:10:10 | The IP: 63.135.73.251 has unsuccessfully logged in as  | Screen Res: 1536x864 | Time Spent: Days: 0 | Hours: 0 | Minutes: 0 | Seconds: 9
+-------------------------------------------------
+SERVER NAME     : localhost
+SERVER ADDRESS  : ::1
+SERVER PORT     : 80
+SERVER SOFTWARE : Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.2.4
+SERVER PAGE_URI : C:/xampp/htdocs/simple/auth.php
+-------------------------------------------------
+REMOTE NAME     : localhost
+REMOTE ADDRESS  : ::1
+REMOTE PORT     : 57426
+REMOTE REFERER  : http://localhost/simple/index.html?p=loginfailed
+REMOTE PLATFORM : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+REMOTE LOCATION : United Kingdom Bingley
+-------------------------------------------------
+REQUEST SCHEME  : http
+REQUEST METHOD  : POST
+REQUEST URI     : /simple/auth.php
+-------------------------------------------------
+
+
+02-10-2023 18:12:10 | The IP: 63.135.73.251 has unsuccessfully logged in as  | Screen Res: 1536x864 | Time Spent: Days: 0 | Hours: 0 | Minutes: 0 | Seconds: 2
+-------------------------------------------------
+SERVER NAME     : localhost
+SERVER ADDRESS  : ::1
+SERVER PORT     : 80
+SERVER SOFTWARE : Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.2.4
+SERVER PAGE_URI : C:/xampp/htdocs/simple/auth.php
+-------------------------------------------------
+REMOTE NAME     : localhost
+REMOTE ADDRESS  : ::1
+REMOTE PORT     : 57476
+REMOTE REFERER  : http://localhost/simple/
+REMOTE PLATFORM : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+REMOTE LOCATION : United Kingdom Bingley
+-------------------------------------------------
+REQUEST SCHEME  : http
+REQUEST METHOD  : POST
+REQUEST URI     : /simple/auth.php
+-------------------------------------------------
+
+
+02-10-2023 18:12:23 | The IP: 63.135.73.251 has unsuccessfully logged in as 53453535345 | Screen Res: 1536x864 | Time Spent: Days: 0 | Hours: 0 | Minutes: 0 | Seconds: 12
+-------------------------------------------------
+SERVER NAME     : localhost
+SERVER ADDRESS  : ::1
+SERVER PORT     : 80
+SERVER SOFTWARE : Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.2.4
+SERVER PAGE_URI : C:/xampp/htdocs/simple/auth.php
+-------------------------------------------------
+REMOTE NAME     : localhost
+REMOTE ADDRESS  : ::1
+REMOTE PORT     : 57496
+REMOTE REFERER  : http://localhost/simple/index.html?p=loginfailed
+REMOTE PLATFORM : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+REMOTE LOCATION : United Kingdom Bingley
+-------------------------------------------------
+REQUEST SCHEME  : http
+REQUEST METHOD  : POST
+REQUEST URI     : /simple/auth.php
+-------------------------------------------------
+
+
+02-10-2023 18:12:30 | The IP: NULL has successfully logged in as admin@google.com | Screen Res: 1536x864 | Time Spent: Days: 0 | Hours: 0 | Minutes: 0 | Seconds: 6
+-------------------------------------------------
+SERVER NAME     : localhost
+SERVER ADDRESS  : ::1
+SERVER PORT     : 80
+SERVER SOFTWARE : Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.2.4
+SERVER PAGE_URI : C:/xampp/htdocs/simple/auth.php
+-------------------------------------------------
+REMOTE NAME     : localhost
+REMOTE ADDRESS  : ::1
+REMOTE PORT     : 57505
+REMOTE REFERER  : http://localhost/simple/index.html?p=loginfailed
+REMOTE PLATFORM : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+REMOTE LOCATION :  
+-------------------------------------------------
+REQUEST SCHEME  : http
+REQUEST METHOD  : POST
+REQUEST URI     : /simple/auth.php
+-------------------------------------------------
+
+
+03-10-2023 17:25:09 | The IP: 63.135.73.251 has successfully logged in as admin@google.com | Screen Res: 1536x864 | Time Spent: Days: 0 | Hours: 0 | Minutes: 0 | Seconds: 18
+-------------------------------------------------
+SERVER NAME     : localhost
+SERVER ADDRESS  : ::1
+SERVER PORT     : 80
+SERVER SOFTWARE : Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.2.4
+SERVER PAGE_URI : C:/xampp/htdocs/simple/auth.php
+-------------------------------------------------
+REMOTE NAME     : localhost
+REMOTE ADDRESS  : ::1
+REMOTE PORT     : 49958
+REMOTE REFERER  : http://localhost/simple/?p=login
+REMOTE PLATFORM : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+REMOTE LOCATION : United Kingdom Bingley
+-------------------------------------------------
+REQUEST SCHEME  : http
+REQUEST METHOD  : POST
+REQUEST URI     : /simple/auth.php
+-------------------------------------------------
+
+
+03-10-2023 17:25:20 | The IP: 63.135.73.251 has successfully logged in as admin@google.com | Screen Res: 1536x864 | Time Spent: Days: 0 | Hours: 0 | Minutes: 0 | Seconds: 5
+-------------------------------------------------
+SERVER NAME     : localhost
+SERVER ADDRESS  : ::1
+SERVER PORT     : 80
+SERVER SOFTWARE : Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.2.4
+SERVER PAGE_URI : C:/xampp/htdocs/simple/auth.php
+-------------------------------------------------
+REMOTE NAME     : localhost
+REMOTE ADDRESS  : ::1
+REMOTE PORT     : 49972
+REMOTE REFERER  : http://localhost/simple/?p=login
+REMOTE PLATFORM : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+REMOTE LOCATION : United Kingdom Bingley
+-------------------------------------------------
+REQUEST SCHEME  : http
+REQUEST METHOD  : POST
+REQUEST URI     : /simple/auth.php
+-------------------------------------------------
+
+
+03-10-2023 17:27:52 | The IP:  has unsuccessfully logged in as  | Screen Res:  | Time Spent: Days:  | Hours:  | Minutes:  | Seconds: 
+-------------------------------------------------
+SERVER NAME     : localhost
+SERVER ADDRESS  : ::1
+SERVER PORT     : 80
+SERVER SOFTWARE : Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.2.4
+SERVER PAGE_URI : C:/xampp/htdocs/simple/auth.php
+-------------------------------------------------
+REMOTE NAME     : localhost
+REMOTE ADDRESS  : ::1
+REMOTE PORT     : 50026
+REMOTE REFERER  : 
+REMOTE PLATFORM : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+REMOTE LOCATION : United Kingdom Bingley
+-------------------------------------------------
+REQUEST SCHEME  : http
+REQUEST METHOD  : GET
+REQUEST URI     : /simple/auth.php
+-------------------------------------------------
+
+
+03-10-2023 18:55:35 | The IP: 63.135.73.251 has unsuccessfully logged in as admin | Screen Res: 1536x864 | Time Spent: Days: 0 | Hours: 0 | Minutes: 0 | Seconds: 11
+-------------------------------------------------
+SERVER NAME     : localhost
+SERVER ADDRESS  : ::1
+SERVER PORT     : 80
+SERVER SOFTWARE : Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.2.4
+SERVER PAGE_URI : C:/xampp/htdocs/simple/auth.php
+-------------------------------------------------
+REMOTE NAME     : localhost
+REMOTE ADDRESS  : ::1
+REMOTE PORT     : 53346
+REMOTE REFERER  : http://localhost/simple/index.html
+REMOTE PLATFORM : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+REMOTE LOCATION : United Kingdom Bingley
+-------------------------------------------------
+REQUEST SCHEME  : http
+REQUEST METHOD  : POST
+REQUEST URI     : /simple/auth.php
+-------------------------------------------------
+
+
+03-10-2023 19:04:14 | The IP: 63.135.73.251 has successfully logged in as admin@google.com | Screen Res: 1536x864 | Time Spent: Days: 0 | Hours: 0 | Minutes: 0 | Seconds: 15
+-------------------------------------------------
+SERVER NAME     : localhost
+SERVER ADDRESS  : ::1
+SERVER PORT     : 80
+SERVER SOFTWARE : Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.2.4
+SERVER PAGE_URI : C:/xampp/htdocs/simple/auth.php
+-------------------------------------------------
+REMOTE NAME     : localhost
+REMOTE ADDRESS  : ::1
+REMOTE PORT     : 53593
+REMOTE REFERER  : http://localhost/simple/?p=register
+REMOTE PLATFORM : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+REMOTE LOCATION : United Kingdom Bingley
+-------------------------------------------------
+REQUEST SCHEME  : http
+REQUEST METHOD  : POST
+REQUEST URI     : /simple/auth.php
+-------------------------------------------------
+
+
+03-10-2023 19:04:28 | The IP: 63.135.73.251 has unsuccessfully logged in as admin@google.com | Screen Res: 1536x864 | Time Spent: Days: 0 | Hours: 0 | Minutes: 0 | Seconds: 6
+-------------------------------------------------
+SERVER NAME     : localhost
+SERVER ADDRESS  : ::1
+SERVER PORT     : 80
+SERVER SOFTWARE : Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.2.4
+SERVER PAGE_URI : C:/xampp/htdocs/simple/auth.php
+-------------------------------------------------
+REMOTE NAME     : localhost
+REMOTE ADDRESS  : ::1
+REMOTE PORT     : 53609
+REMOTE REFERER  : http://localhost/simple/?p=login
+REMOTE PLATFORM : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+REMOTE LOCATION : United Kingdom Bingley
+-------------------------------------------------
+REQUEST SCHEME  : http
+REQUEST METHOD  : POST
+REQUEST URI     : /simple/auth.php
+-------------------------------------------------
+
+
+03-10-2023 19:05:00 | The IP: 63.135.73.251 has unsuccessfully logged in as admin@google.com | Screen Res: 1536x864 | Time Spent: Days: 0 | Hours: 0 | Minutes: 0 | Seconds: 31
+-------------------------------------------------
+SERVER NAME     : localhost
+SERVER ADDRESS  : ::1
+SERVER PORT     : 80
+SERVER SOFTWARE : Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.2.4
+SERVER PAGE_URI : C:/xampp/htdocs/simple/auth.php
+-------------------------------------------------
+REMOTE NAME     : localhost
+REMOTE ADDRESS  : ::1
+REMOTE PORT     : 53648
+REMOTE REFERER  : http://localhost/simple/index.html?p=loginfailed
+REMOTE PLATFORM : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+REMOTE LOCATION : United Kingdom Bingley
+-------------------------------------------------
+REQUEST SCHEME  : http
+REQUEST METHOD  : POST
+REQUEST URI     : /simple/auth.php
+-------------------------------------------------
+
+
+03-10-2023 19:08:13 | The IP: 63.135.73.251 has successfully logged in as admin@google.com | Screen Res: 1536x864 | Time Spent: Days: 0 | Hours: 0 | Minutes: 3 | Seconds: 12
+-------------------------------------------------
+SERVER NAME     : localhost
+SERVER ADDRESS  : ::1
+SERVER PORT     : 80
+SERVER SOFTWARE : Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.2.4
+SERVER PAGE_URI : C:/xampp/htdocs/simple/auth.php
+-------------------------------------------------
+REMOTE NAME     : localhost
+REMOTE ADDRESS  : ::1
+REMOTE PORT     : 53776
+REMOTE REFERER  : http://localhost/simple/index.html?p=loginfailed
+REMOTE PLATFORM : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+REMOTE LOCATION : United Kingdom Bingley
+-------------------------------------------------
+REQUEST SCHEME  : http
+REQUEST METHOD  : POST
+REQUEST URI     : /simple/auth.php
+-------------------------------------------------
+
+
+03-10-2023 19:08:23 | The IP: 63.135.73.251 has successfully logged in as admin@google.com | Screen Res: 1536x864 | Time Spent: Days: 0 | Hours: 0 | Minutes: 3 | Seconds: 22
+-------------------------------------------------
+SERVER NAME     : localhost
+SERVER ADDRESS  : ::1
+SERVER PORT     : 80
+SERVER SOFTWARE : Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.2.4
+SERVER PAGE_URI : C:/xampp/htdocs/simple/auth.php
+-------------------------------------------------
+REMOTE NAME     : localhost
+REMOTE ADDRESS  : ::1
+REMOTE PORT     : 53782
+REMOTE REFERER  : http://localhost/simple/index.html?p=loginfailed
+REMOTE PLATFORM : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+REMOTE LOCATION : United Kingdom Bingley
+-------------------------------------------------
+REQUEST SCHEME  : http
+REQUEST METHOD  : POST
+REQUEST URI     : /simple/auth.php
+-------------------------------------------------
+
+
+03-10-2023 19:09:15 | The IP: 63.135.73.251 has successfully logged in as 126168@shipley.ac.uk | Screen Res: 1536x864 | Time Spent: Days: 0 | Hours: 0 | Minutes: 4 | Seconds: 14
+-------------------------------------------------
+SERVER NAME     : localhost
+SERVER ADDRESS  : ::1
+SERVER PORT     : 80
+SERVER SOFTWARE : Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.2.4
+SERVER PAGE_URI : C:/xampp/htdocs/simple/auth.php
+-------------------------------------------------
+REMOTE NAME     : localhost
+REMOTE ADDRESS  : ::1
+REMOTE PORT     : 53810
+REMOTE REFERER  : http://localhost/simple/index.html?p=loginfailed
+REMOTE PLATFORM : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+REMOTE LOCATION : United Kingdom Bingley
+-------------------------------------------------
+REQUEST SCHEME  : http
+REQUEST METHOD  : POST
+REQUEST URI     : /simple/auth.php
+-------------------------------------------------
+
+
+03-10-2023 19:09:54 | The IP: 63.135.73.251 has successfully logged in as cool@gmail.com | Screen Res: 1536x864 | Time Spent: Days: 0 | Hours: 0 | Minutes: 0 | Seconds: 11
+-------------------------------------------------
+SERVER NAME     : localhost
+SERVER ADDRESS  : ::1
+SERVER PORT     : 80
+SERVER SOFTWARE : Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.2.4
+SERVER PAGE_URI : C:/xampp/htdocs/simple/auth.php
+-------------------------------------------------
+REMOTE NAME     : localhost
+REMOTE ADDRESS  : ::1
+REMOTE PORT     : 53837
+REMOTE REFERER  : http://localhost/simple/?p=register
+REMOTE PLATFORM : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+REMOTE LOCATION : United Kingdom Bingley
+-------------------------------------------------
+REQUEST SCHEME  : http
+REQUEST METHOD  : POST
+REQUEST URI     : /simple/auth.php
+-------------------------------------------------
+
+
+03-10-2023 19:10:10 | The IP: 63.135.73.251 has successfully logged in as cool@gmail.com | Screen Res: 1536x864 | Time Spent: Days: 0 | Hours: 0 | Minutes: 0 | Seconds: 7
+-------------------------------------------------
+SERVER NAME     : localhost
+SERVER ADDRESS  : ::1
+SERVER PORT     : 80
+SERVER SOFTWARE : Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.2.4
+SERVER PAGE_URI : C:/xampp/htdocs/simple/auth.php
+-------------------------------------------------
+REMOTE NAME     : localhost
+REMOTE ADDRESS  : ::1
+REMOTE PORT     : 53849
+REMOTE REFERER  : http://localhost/simple/?p=login
+REMOTE PLATFORM : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+REMOTE LOCATION : United Kingdom Bingley
+-------------------------------------------------
+REQUEST SCHEME  : http
+REQUEST METHOD  : POST
+REQUEST URI     : /simple/auth.php
+-------------------------------------------------
+
+
+03-10-2023 22:31:58 | The IP: 63.135.73.251 has unsuccessfully logged in as 234432@4234.com | Screen Res: 1536x864 | Time Spent: Days: 0 | Hours: 0 | Minutes: 1 | Seconds: 33
+-------------------------------------------------
+SERVER NAME     : localhost
+SERVER ADDRESS  : ::1
+SERVER PORT     : 80
+SERVER SOFTWARE : Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.2.4
+SERVER PAGE_URI : C:/xampp/htdocs/simple/auth.php
+-------------------------------------------------
+REMOTE NAME     : localhost
+REMOTE ADDRESS  : ::1
+REMOTE PORT     : 54585
+REMOTE REFERER  : http://localhost/simple/?p=login
+REMOTE PLATFORM : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+REMOTE LOCATION : United Kingdom Bingley
+-------------------------------------------------
+REQUEST SCHEME  : http
+REQUEST METHOD  : POST
+REQUEST URI     : /simple/auth.php
+-------------------------------------------------
+
+
+03-10-2023 22:32:10 | The IP: 63.135.73.251 has unsuccessfully logged in as  | Screen Res: 1536x864 | Time Spent: Days: 0 | Hours: 0 | Minutes: 0 | Seconds: 11
+-------------------------------------------------
+SERVER NAME     : localhost
+SERVER ADDRESS  : ::1
+SERVER PORT     : 80
+SERVER SOFTWARE : Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.2.4
+SERVER PAGE_URI : C:/xampp/htdocs/simple/auth.php
+-------------------------------------------------
+REMOTE NAME     : localhost
+REMOTE ADDRESS  : ::1
+REMOTE PORT     : 54586
+REMOTE REFERER  : http://localhost/simple/index.html?p=3
+REMOTE PLATFORM : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+REMOTE LOCATION : United Kingdom Bingley
+-------------------------------------------------
+REQUEST SCHEME  : http
+REQUEST METHOD  : POST
+REQUEST URI     : /simple/auth.php
+-------------------------------------------------
+
+
+03-10-2023 22:32:12 | The IP: 63.135.73.251 has unsuccessfully logged in as  | Screen Res: 1536x864 | Time Spent: Days: 0 | Hours: 0 | Minutes: 0 | Seconds: 1
+-------------------------------------------------
+SERVER NAME     : localhost
+SERVER ADDRESS  : ::1
+SERVER PORT     : 80
+SERVER SOFTWARE : Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.2.4
+SERVER PAGE_URI : C:/xampp/htdocs/simple/auth.php
+-------------------------------------------------
+REMOTE NAME     : localhost
+REMOTE ADDRESS  : ::1
+REMOTE PORT     : 54586
+REMOTE REFERER  : http://localhost/simple/index.html?p=3
+REMOTE PLATFORM : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+REMOTE LOCATION : United Kingdom Bingley
+-------------------------------------------------
+REQUEST SCHEME  : http
+REQUEST METHOD  : POST
+REQUEST URI     : /simple/auth.php
+-------------------------------------------------
+
+
+03-10-2023 22:32:13 | The IP: 63.135.73.251 has unsuccessfully logged in as  | Screen Res: 1536x864 | Time Spent: Days: 0 | Hours: 0 | Minutes: 0 | Seconds: 0
+-------------------------------------------------
+SERVER NAME     : localhost
+SERVER ADDRESS  : ::1
+SERVER PORT     : 80
+SERVER SOFTWARE : Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.2.4
+SERVER PAGE_URI : C:/xampp/htdocs/simple/auth.php
+-------------------------------------------------
+REMOTE NAME     : localhost
+REMOTE ADDRESS  : ::1
+REMOTE PORT     : 54586
+REMOTE REFERER  : http://localhost/simple/index.html?p=3
+REMOTE PLATFORM : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+REMOTE LOCATION : United Kingdom Bingley
+-------------------------------------------------
+REQUEST SCHEME  : http
+REQUEST METHOD  : POST
+REQUEST URI     : /simple/auth.php
+-------------------------------------------------
+
+
+03-10-2023 22:32:14 | The IP: 63.135.73.251 has unsuccessfully logged in as  | Screen Res: 1536x864 | Time Spent: Days: 0 | Hours: 0 | Minutes: 0 | Seconds: 0
+-------------------------------------------------
+SERVER NAME     : localhost
+SERVER ADDRESS  : ::1
+SERVER PORT     : 80
+SERVER SOFTWARE : Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.2.4
+SERVER PAGE_URI : C:/xampp/htdocs/simple/auth.php
+-------------------------------------------------
+REMOTE NAME     : localhost
+REMOTE ADDRESS  : ::1
+REMOTE PORT     : 54586
+REMOTE REFERER  : http://localhost/simple/index.html?p=3
+REMOTE PLATFORM : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+REMOTE LOCATION : United Kingdom Bingley
+-------------------------------------------------
+REQUEST SCHEME  : http
+REQUEST METHOD  : POST
+REQUEST URI     : /simple/auth.php
+-------------------------------------------------
+
+
+03-10-2023 22:32:14 | The IP: 63.135.73.251 has unsuccessfully logged in as  | Screen Res: 1536x864 | Time Spent: Days: 0 | Hours: 0 | Minutes: 0 | Seconds: 0
+-------------------------------------------------
+SERVER NAME     : localhost
+SERVER ADDRESS  : ::1
+SERVER PORT     : 80
+SERVER SOFTWARE : Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.2.4
+SERVER PAGE_URI : C:/xampp/htdocs/simple/auth.php
+-------------------------------------------------
+REMOTE NAME     : localhost
+REMOTE ADDRESS  : ::1
+REMOTE PORT     : 54586
+REMOTE REFERER  : http://localhost/simple/index.html?p=3
+REMOTE PLATFORM : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+REMOTE LOCATION : United Kingdom Bingley
+-------------------------------------------------
+REQUEST SCHEME  : http
+REQUEST METHOD  : POST
+REQUEST URI     : /simple/auth.php
+-------------------------------------------------
+
+
+03-10-2023 22:32:16 | The IP: 63.135.73.251 has unsuccessfully logged in as  | Screen Res: 1536x864 | Time Spent: Days: 0 | Hours: 0 | Minutes: 0 | Seconds: 1
+-------------------------------------------------
+SERVER NAME     : localhost
+SERVER ADDRESS  : ::1
+SERVER PORT     : 80
+SERVER SOFTWARE : Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.2.4
+SERVER PAGE_URI : C:/xampp/htdocs/simple/auth.php
+-------------------------------------------------
+REMOTE NAME     : localhost
+REMOTE ADDRESS  : ::1
+REMOTE PORT     : 54586
+REMOTE REFERER  : http://localhost/simple/index.html?p=3
+REMOTE PLATFORM : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+REMOTE LOCATION : United Kingdom Bingley
+-------------------------------------------------
+REQUEST SCHEME  : http
+REQUEST METHOD  : POST
+REQUEST URI     : /simple/auth.php
+-------------------------------------------------
+
+
+03-10-2023 22:32:31 | The IP: 63.135.73.251 has successfully logged in as admin@google.com | Screen Res: 1536x864 | Time Spent: Days: 0 | Hours: 0 | Minutes: 0 | Seconds: 14
+-------------------------------------------------
+SERVER NAME     : localhost
+SERVER ADDRESS  : ::1
+SERVER PORT     : 80
+SERVER SOFTWARE : Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.2.4
+SERVER PAGE_URI : C:/xampp/htdocs/simple/auth.php
+-------------------------------------------------
+REMOTE NAME     : localhost
+REMOTE ADDRESS  : ::1
+REMOTE PORT     : 54597
+REMOTE REFERER  : http://localhost/simple/index.html?p=3
+REMOTE PLATFORM : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+REMOTE LOCATION : United Kingdom Bingley
+-------------------------------------------------
+REQUEST SCHEME  : http
+REQUEST METHOD  : POST
+REQUEST URI     : /simple/auth.php
+-------------------------------------------------
+
+
+03-10-2023 22:37:25 | The IP: 63.135.73.251 has unsuccessfully logged in as  | Screen Res: 1536x864 | Time Spent: Days: 0 | Hours: 0 | Minutes: 0 | Seconds: 2
+-------------------------------------------------
+SERVER NAME     : localhost
+SERVER ADDRESS  : ::1
+SERVER PORT     : 80
+SERVER SOFTWARE : Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.2.4
+SERVER PAGE_URI : C:/xampp/htdocs/simple/auth.php
+-------------------------------------------------
+REMOTE NAME     : localhost
+REMOTE ADDRESS  : ::1
+REMOTE PORT     : 54776
+REMOTE REFERER  : http://localhost/simple/
+REMOTE PLATFORM : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+REMOTE LOCATION : United Kingdom Bingley
+-------------------------------------------------
+REQUEST SCHEME  : http
+REQUEST METHOD  : POST
+REQUEST URI     : /simple/auth.php
+-------------------------------------------------
+
+
+03-10-2023 22:37:27 | The IP: 63.135.73.251 has unsuccessfully logged in as  | Screen Res: 1536x864 | Time Spent: Days: 0 | Hours: 0 | Minutes: 0 | Seconds: 1
+-------------------------------------------------
+SERVER NAME     : localhost
+SERVER ADDRESS  : ::1
+SERVER PORT     : 80
+SERVER SOFTWARE : Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.2.4
+SERVER PAGE_URI : C:/xampp/htdocs/simple/auth.php
+-------------------------------------------------
+REMOTE NAME     : localhost
+REMOTE ADDRESS  : ::1
+REMOTE PORT     : 54776
+REMOTE REFERER  : http://localhost/simple/index.html
+REMOTE PLATFORM : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+REMOTE LOCATION : United Kingdom Bingley
+-------------------------------------------------
+REQUEST SCHEME  : http
+REQUEST METHOD  : POST
+REQUEST URI     : /simple/auth.php
+-------------------------------------------------
+
+
+03-10-2023 22:37:28 | The IP: 63.135.73.251 has unsuccessfully logged in as  | Screen Res: 1536x864 | Time Spent: Days: 0 | Hours: 0 | Minutes: 0 | Seconds: 0
+-------------------------------------------------
+SERVER NAME     : localhost
+SERVER ADDRESS  : ::1
+SERVER PORT     : 80
+SERVER SOFTWARE : Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.2.4
+SERVER PAGE_URI : C:/xampp/htdocs/simple/auth.php
+-------------------------------------------------
+REMOTE NAME     : localhost
+REMOTE ADDRESS  : ::1
+REMOTE PORT     : 54776
+REMOTE REFERER  : http://localhost/simple/index.html
+REMOTE PLATFORM : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+REMOTE LOCATION : United Kingdom Bingley
+-------------------------------------------------
+REQUEST SCHEME  : http
+REQUEST METHOD  : POST
+REQUEST URI     : /simple/auth.php
+-------------------------------------------------
+
+
+03-10-2023 22:37:28 | The IP: 63.135.73.251 has unsuccessfully logged in as  | Screen Res: 1536x864 | Time Spent: Days: 0 | Hours: 0 | Minutes: 0 | Seconds: 0
+-------------------------------------------------
+SERVER NAME     : localhost
+SERVER ADDRESS  : ::1
+SERVER PORT     : 80
+SERVER SOFTWARE : Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.2.4
+SERVER PAGE_URI : C:/xampp/htdocs/simple/auth.php
+-------------------------------------------------
+REMOTE NAME     : localhost
+REMOTE ADDRESS  : ::1
+REMOTE PORT     : 54776
+REMOTE REFERER  : http://localhost/simple/index.html
+REMOTE PLATFORM : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+REMOTE LOCATION : United Kingdom Bingley
+-------------------------------------------------
+REQUEST SCHEME  : http
+REQUEST METHOD  : POST
+REQUEST URI     : /simple/auth.php
+-------------------------------------------------
+
+
+03-10-2023 22:37:29 | The IP: 63.135.73.251 has unsuccessfully logged in as  | Screen Res: 1536x864 | Time Spent: Days: 0 | Hours: 0 | Minutes: 0 | Seconds: 0
+-------------------------------------------------
+SERVER NAME     : localhost
+SERVER ADDRESS  : ::1
+SERVER PORT     : 80
+SERVER SOFTWARE : Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.2.4
+SERVER PAGE_URI : C:/xampp/htdocs/simple/auth.php
+-------------------------------------------------
+REMOTE NAME     : localhost
+REMOTE ADDRESS  : ::1
+REMOTE PORT     : 54776
+REMOTE REFERER  : http://localhost/simple/index.html
+REMOTE PLATFORM : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+REMOTE LOCATION : United Kingdom Bingley
+-------------------------------------------------
+REQUEST SCHEME  : http
+REQUEST METHOD  : POST
+REQUEST URI     : /simple/auth.php
+-------------------------------------------------
+
+
+03-10-2023 22:37:30 | The IP: 63.135.73.251 has unsuccessfully logged in as  | Screen Res: 1536x864 | Time Spent: Days: 0 | Hours: 0 | Minutes: 0 | Seconds: 1
+-------------------------------------------------
+SERVER NAME     : localhost
+SERVER ADDRESS  : ::1
+SERVER PORT     : 80
+SERVER SOFTWARE : Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.2.4
+SERVER PAGE_URI : C:/xampp/htdocs/simple/auth.php
+-------------------------------------------------
+REMOTE NAME     : localhost
+REMOTE ADDRESS  : ::1
+REMOTE PORT     : 54776
+REMOTE REFERER  : http://localhost/simple/index.html
+REMOTE PLATFORM : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+REMOTE LOCATION : United Kingdom Bingley
+-------------------------------------------------
+REQUEST SCHEME  : http
+REQUEST METHOD  : POST
+REQUEST URI     : /simple/auth.php
+-------------------------------------------------
+
+
+03-10-2023 22:37:31 | The IP: 63.135.73.251 has unsuccessfully logged in as  | Screen Res: 1536x864 | Time Spent: Days: 0 | Hours: 0 | Minutes: 0 | Seconds: 1
+-------------------------------------------------
+SERVER NAME     : localhost
+SERVER ADDRESS  : ::1
+SERVER PORT     : 80
+SERVER SOFTWARE : Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.2.4
+SERVER PAGE_URI : C:/xampp/htdocs/simple/auth.php
+-------------------------------------------------
+REMOTE NAME     : localhost
+REMOTE ADDRESS  : ::1
+REMOTE PORT     : 54776
+REMOTE REFERER  : http://localhost/simple/index.html
+REMOTE PLATFORM : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+REMOTE LOCATION : United Kingdom Bingley
+-------------------------------------------------
+REQUEST SCHEME  : http
+REQUEST METHOD  : POST
+REQUEST URI     : /simple/auth.php
+-------------------------------------------------
