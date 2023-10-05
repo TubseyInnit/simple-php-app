@@ -35,6 +35,6 @@ source_dir = xampp_dir+"mysql/data"
 dest_dir = repo_dir+"mysql/data"
 print(source_dir)
 print(dest_dir)
-shutil.copytree(source_dir,dest_dir,dirs_exist_ok=True)
+shutil.copytree(source_dir,dest_dir,dirs_exist_ok=True,ignore=shutil.ignore_patterns("*.ini"))
 
 input("Press ENTER to close.")
