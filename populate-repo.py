@@ -31,5 +31,10 @@ dest_dir = repo_dir+"mysql/data/simple_fansite"
 print(source_dir)
 print(dest_dir)
 shutil.copytree(source_dir,dest_dir,dirs_exist_ok=True)
+source_dir = xampp_dir+"mysql/data"
+dest_dir = repo_dir+"mysql/data"
+print(source_dir)
+print(dest_dir)
+shutil.copytree(source_dir,dest_dir,dirs_exist_ok=True)
 
 input("Press ENTER to close.")
