@@ -26,10 +26,5 @@ source_dir = repo_dir+"htdocs/simple"
 print(source_dir)
 print(dest_dir)
 shutil.copytree(source_dir,dest_dir,dirs_exist_ok=True)
-dest_dir = xampp_dir+"mysql/data/simple_fansite"
-source_dir = repo_dir+"mysql/data/simple_fansite"
-print(source_dir)
-print(dest_dir)
-shutil.copytree(source_dir,dest_dir,dirs_exist_ok=True)
 
 input("Press ENTER to close.")
