@@ -28,8 +28,6 @@ switch ($_SESSION["type"]) {
 
 $_SESSION["err"] = "";
 
-setcookie("loggedIn","true",time()-3600,"/");
-
 if ($_COOKIE["loggedIn"] == "true") {
 	header("location:home.php");
 }
