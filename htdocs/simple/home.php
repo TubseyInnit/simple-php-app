@@ -7,7 +7,7 @@ session_start();
 <title>Page Title</title>
  <script type="text/javascript">
             function logout() {
-                document.cookie = "loggedIn=false;";
+                document.cookie = "loggedIn=true; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/;";
                 window.location.replace("index.php");
             }
         </script>
@@ -16,6 +16,7 @@ session_start();
 
 <h1>This is a Heading</h1>
 <p>This is a paragraph.</p>
+<button onClick="logout()">Logout</button>
 
 </body>
 </html>

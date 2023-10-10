@@ -62,7 +62,7 @@ $bool      = false;
 
 function mySQLiConn() {
     # This function Initializes a mySQL connection
-    $dbservername = "localhost";
+    $dbservername = "127.0.0.1";
     $dbusername = "root";
     $dbpassword = "";
     $dbname = "simple_fansite";
@@ -135,7 +135,7 @@ function login($email,$password) {
         # returns true if it is valid
         if (password_verify($password, $hashed_password)) {
             header("location:home.php");
-            setcookie("loggedIn","true", time()+3*24*60*60,"/");
+            setcookie("loggedIn","true", time()+60,"/");
         } else {
             $_SESSION["err"] = "loginfailed";
             header("location:index.php");
