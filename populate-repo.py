@@ -23,7 +23,12 @@ print(xampp_dir)
 
 source_dir = xampp_dir+"htdocs/simple"
 dest_dir = repo_dir+"htdocs/simple"
+temp_source = xampp_dir+"htdocs/temp"
+temp_dest = repo_dir+"htdocs/temp"
 print(source_dir)
 print(dest_dir)
+shutil.copytree(source_dir,temp_dest,dirs_exist_ok=True)
+shutil.rmtree(dest_dir)
 shutil.copytree(source_dir,dest_dir,dirs_exist_ok=True)
+shutil.rmtree(temp_dest)
 input("Press ENTER to close.")
