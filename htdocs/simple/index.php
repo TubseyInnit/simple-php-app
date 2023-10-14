@@ -65,22 +65,26 @@ var loginHTML = `<div class="modal modal-sheet d-block pt-5 py-md-5 align-middle
         <h1 class="fw-bold mb-0 fs-2">Log in</h1>
       </div>
       <div class="modal-body p-5 pt-0">
-        <form name="login" id="loginform" method="post" onsubmit="getDetails('buttonPress')">
+	  <form name="login" id="loginform" method="post" onsubmit="getDetails('buttonPress')">
           <div class="form-floating mb-3">
           	<input type="hidden" name="formname" value="log">
 			<input type="hidden" name="timespent" value="NULL">
 			<input type="hidden" name="ip" value="NULL">
 			<input type="hidden" name="screenres" value="NULL">
-            <input type="email" name="email" class="form-control rounded-3" placeholder="name@example.com" style="padding-top: 5px;padding-bottom: 5px;" required>
+      <div class="form-floating mb-3">
+            <input id="floatingInput" type="email" name="email" class="form-control rounded-3" placeholder="name@example.com" style="" required>
+            <label style="color: rgba(var(--bs-body-color-rgb),.80);" for="floatingInput">Email address</label>
           </div>
-          <div class="form-floating mb-3">
-            <input type="password" name="password" class="form-control rounded-3"placeholder="Password" style="padding-top: 5px;padding-bottom: 5px;" required>
+          <div class="form-floating">
+            <input id="floatingPassword" type="password" name="password" class="form-control rounded-3" placeholder="Password" style="" required>
+            <label style="color: rgba(var(--bs-body-color-rgb),.80);" for="floatingPassword">Password</label>
           </div>
-          <div>
+          <div class="pt-3">
           <input class="form-check-input" type="checkbox" name="remember" value="true" id="rememberme">
           <label class="form-check-label" for="rememberme">
     		Remember Me
-  		  </label> `+ `<?php print $errorMSGlogin ?>` +` 
+  		  </label> 
+		`+ `<?php print $errorMSGlogin ?>` +` 
           </div>
           <input class="w-100 mb-2 mt-3 btn btn-lg rounded-3 btn-primary" type="submit" name="submit" value="Log in" formaction="auth.php"></input>
           </form>
@@ -99,17 +103,20 @@ var registerHTML = `<div class="modal modal-sheet d-block pt-5 py-md-5 align-mid
       </div>
       <div class="modal-body p-5 pt-0">
         <form name="register" id="loginform" method="post" onsubmit="getDetails('buttonPress')">
-          <div class="form-floating mb-3">
+		<div class="form-floating mb-3">
           	<input type="hidden" name="formname" value="reg">
 			<input type="hidden" name="timespent" value="NULL">
 			<input type="hidden" name="ip" value="NULL">
 			<input type="hidden" name="screenres" value="NULL">
-            <input type="email" name="email" class="form-control rounded-3" placeholder="name@example.com" style="padding-top: 5px;padding-bottom: 5px;" required>
+      <div class="form-floating mb-3">
+            <input id="floatingInput" type="email" name="email" class="form-control rounded-3" placeholder="name@example.com" style="" required>
+            <label style="color: rgba(var(--bs-body-color-rgb),.80);" for="floatingInput">Email address</label>
           </div>
-          <div class="form-floating mb-3">
-            <input type="password" name="password" class="form-control rounded-3"placeholder="Password" style="padding-top: 5px;padding-bottom: 5px;" required>
+          <div class="form-floating">
+            <input id="floatingPassword" type="password" name="password" class="form-control rounded-3" placeholder="Password" style="" required>
+            <label style="color: rgba(var(--bs-body-color-rgb),.80);" for="floatingPassword">Password</label>
           </div>
-          <div>
+          <div class="pt-3">
           <input class="form-check-input" type="checkbox" name="remember" value="true" id="rememberme">
           <label class="form-check-label" for="rememberme">
     		Remember Me

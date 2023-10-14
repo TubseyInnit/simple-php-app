@@ -23,12 +23,15 @@
 			<input type="hidden" name="timespent" value="NULL">
 			<input type="hidden" name="ip" value="NULL">
 			<input type="hidden" name="screenres" value="NULL">
-            <input type="email" name="email" class="form-control rounded-3" placeholder="name@example.com" style="padding-top: 5px;padding-bottom: 5px;" required>
+      <div class="form-floating mb-3">
+            <input id="floatingInput" type="email" name="email" class="form-control rounded-3" placeholder="name@example.com" style="" required>
+            <label style="color: rgba(var(--bs-body-color-rgb),.80);" for="floatingInput">Email address</label>
           </div>
-          <div class="form-floating mb-3">
-            <input type="password" name="password" class="form-control rounded-3"placeholder="Password" style="padding-top: 5px;padding-bottom: 5px;" required>
+          <div class="form-floating">
+            <input id="floatingPassword" type="password" name="password" class="form-control rounded-3" placeholder="Password" style="" required>
+            <label style="color: rgba(var(--bs-body-color-rgb),.80);" for="floatingPassword">Password</label>
           </div>
-          <div>
+          <div class="pt-3">
           <input class="form-check-input" type="checkbox" name="remember" value="true" id="rememberme">
           <label class="form-check-label" for="rememberme">
     		Remember Me
