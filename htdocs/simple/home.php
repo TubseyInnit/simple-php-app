@@ -1,5 +1,13 @@
 <?php
+error_reporting(E_ALL ^ E_WARNING);
 session_start();
+
+if ($_SESSION["loggedIn"] == "false" or !$_SESSION["loggedIn"]) {
+  if (!$_COOKIE["auth"] or $_COOKIE["auth"] != "true") {
+    header("location:index.php");
+  }
+}
+
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -12,7 +20,7 @@ session_start();
     <script type="text/javascript">
             function logout() {
                 document.cookie = "loggedIn=true; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/;";
-                window.location.replace("index.php");
+                window.location.replace("auth.php?p=logout");
             }
     </script>
 </head>
@@ -21,7 +29,7 @@ session_start();
 
 <nav class="navbar navbar-expand navbar-dark bg-dark">
     <div class="container-fluid" style="padding-right: 4px;">
-      <a class="navbar-brand" href="#">Fansite</a>
+      <a class="navbar-brand" href="">Fansite</a>
       <div class="collapse navbar-collapse" id="navbarsExample02">
         <div class="container-fluid">
             <span class="navbar-text">

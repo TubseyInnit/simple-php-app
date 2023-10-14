@@ -97,6 +97,7 @@ function register($email,$password) {
         # if it is successful it returns true
         try {
             if ($stmt->execute()) {
+                setcookie("auth","true",time()+300,"/");
                 header("location:home.php");
             } else {
                 $_SESSION["err"] = "regfailed";
@@ -133,6 +134,7 @@ function login($email,$password) {
         # Using PHP built in function to check the hashed password is matching with the inputted password
         # returns true if it is valid
         if (password_verify($password, $hashed_password)) {
+            setcookie("auth","true",time()+300,"/");
             header("location:home.php");
         } else {
             $_SESSION["err"] = "loginfailed";
@@ -149,7 +151,13 @@ function login($email,$password) {
 };
 
 function logout() {
+    $_SESSION["loggedIn"] = "false";
+    setcookie("auth","",-1,"/");
+    header("location:index.php");
+}
 
+if ($_GET['p'] == "logout") {
+    logout();
 }
 
 $_SESSION["type"] = $formName;
@@ -157,14 +165,14 @@ switch ($formName) {
     case "log":
         login($email,$password);
         if ($_POST["remember"] == "true") {
-            setcookie("loggedIn","true", time()+3*24*60*60,"/");
+            $_SESSION["loggedIn"] = "true";
         }
         break;
     
     case "reg":
         register($email,$password);
         if ($_POST["remember"] == "true") {
-            setcookie("loggedIn","true", time()+3*24*60*60,"/");
+            $_SESSION["loggedIn"] = "true";
         }
         break;
 

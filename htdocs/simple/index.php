@@ -2,6 +2,7 @@
 error_reporting(E_ALL ^ E_WARNING);
 session_start();
 
+setcookie("auth","",-1,"/");
 $errorMSGlogin = "";
 $errorMSGregi = "";
 
@@ -37,7 +38,7 @@ switch ($_SESSION["type"]) {
 
 $_SESSION["err"] = "";
 
-if ($_COOKIE["loggedIn"] == "true") {
+if ($_SESSION["loggedIn"] == "true") {
 	header("location:home.php");
 }
 
