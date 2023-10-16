@@ -2,15 +2,18 @@ import shutil
 import os
 
 def find_folder_path(root_dir, folder_name):
-    for folder_path, _, _ in os.walk(root_dir):
+    for folder_path, _, _ in os.walk(root_dir,topdown=False):
+        #print(folder_path)
         if os.path.basename(folder_path) == folder_name:
             return folder_path
     return None
 
-root_directory = 'C:'  # Replace with the directory you want to start the search from
-folder_to_find = 'xampp'  # Replace with the name of the folder you want to find
+root_directory = "C:/xampp"  # Replace with the directory you want to start the search from
+folder_to_find = 'htdocs'  # Replace with the name of the folder you want to find
 
 folder_path = find_folder_path(root_directory, folder_to_find)
+
+print(folder_path)
 
 if folder_path:
     xampp_dir = "C:/xampp/"
